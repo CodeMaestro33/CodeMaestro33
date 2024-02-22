@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @CodeMaestro33<br>👀 I’m interested in python/css/js<br>💞️ I’m looking to collaborate on new<br>😄 Pronouns: he/him<br>📫 How to reach me galacticnomad612@gmail.com<br>⚡ Fun I like my code the way I like my relationships—clean, efficient, and with minimal bugs. ❤️🐛 #CodeRomance"
+👋 Hi, I’m @CodeMaestro33<br>👀 I’m interested in python/java/html/css<br>💞️ I’m looking to collaborate on new<br>😄 Pronouns: he/him<br>📫 How to reach me galacticnomad612@gmail.com<br>⚡ Fun I like my code the way I like my relationships—clean, efficient, and with minimal bugs. ❤️🐛 #CodeRomance"
 
 
 ## 🌐 Socials:
