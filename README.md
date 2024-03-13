@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @CodeMaestro33<br>👀 I’m interested in python/java/html/css<br>💞️ I’m looking to collaborate on new<br>😄 Pronouns: he/him<br>📫 How to reach me galacticnomad612@gmail.com<br>⚡ Fun I like my code the way I like my relationships—clean, efficient, and with minimal bugs. ❤️🐛 #CodeRomance"
-
+[![](https://visitcount.itsvg.in/api?id=Codemeastro33&label=codemaestro33&color=3&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkekin.com/in/anuj-chikiliakar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/user_aacailkihrik) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Altruistic_state_426) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Shazam_7272) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MarchMarch68978) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Code_Maestro33)  
